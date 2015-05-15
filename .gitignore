@@ -1,0 +1,11 @@
+Debug
+Release
+*.dsw
+*.ncb
+*.opt
+*.plg
+*.bak
+*.aps
+
+.gta
+.svn
